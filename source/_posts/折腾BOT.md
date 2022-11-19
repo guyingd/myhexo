@@ -12,4 +12,4 @@ updated: '2022-11-19 14:37:44'
 ---
 ## QQ机器人折腾日记
 
-<video src="http://guyinga.top/20221119_004419.mp4"></video>
+<iframe height=498 width=510 src="http://guyinga.top/20221119_004419.mp4">
